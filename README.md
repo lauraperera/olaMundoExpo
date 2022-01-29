@@ -2,7 +2,7 @@
 App Olá Mundo com Reac Native usando a ferramenta EXPO
 
 ## Instalação:
-'$ expo olaMundoExpo'
+'expo olaMundoExpo'
 
 ## Rodar:
-'$npm start'
+'npm start'
