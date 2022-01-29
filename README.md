@@ -1,7 +1,7 @@
 # React Native + Expo 
 App Olá Mundo com React Native usando a ferramenta EXPO
 
-## Instalação:
+## Inicialização:
 'expo olaMundoExpo'
 
 ## Rodar:
